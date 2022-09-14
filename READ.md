@@ -1,3 +1,3 @@
 # Demmo
 
-panathinaikos
+panathinaikos panathinaikos
